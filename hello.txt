@@ -1,0 +1,23 @@
+Hiiiiiii!
+***
+
+Hello people!
+***
+
+Info entered on exit, 34: 
+       name:234 
+       age:234
+***
+
+
+Info entered on 21/12/2020, 26:18: 
+       name:Nikola Jovanovski 
+       age:24
+***
+
+1:
+***
+
+2/2/2
+hello there
+***
